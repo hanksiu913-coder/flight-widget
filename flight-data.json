@@ -106,6 +106,12 @@
     "day": "assets/bg/cts-day.jpg",
     "dusk": "assets/bg/cts-dusk.jpg",
     "night": "assets/bg/cts-night.jpg"
+   },
+   "TPE": {
+    "sunrise": "assets/bg/tpe-sunrise.jpg",
+    "day": "assets/bg/tpe-day.jpg",
+    "dusk": "assets/bg/tpe-dusk.jpg",
+    "night": "assets/bg/tpe-night.jpg"
    }
   },
   "planes": {
