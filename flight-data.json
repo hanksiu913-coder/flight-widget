@@ -229,12 +229,12 @@
   },
   "iconsC": {
    "CX": {
-    "takeoff": "assets/icons/takeoff-CX.png",
-    "landing": "assets/icons/landing-CX.png"
+    "takeoff": "assets/icons/takeoff-cx.png",
+    "landing": "assets/icons/landing-cx.png"
    },
    "OZ": {
-    "takeoff": "assets/icons/takeoff-OZ.png",
-    "landing": "assets/icons/landing-OZ.png"
+    "takeoff": "assets/icons/takeoff-oz.png",
+    "landing": "assets/icons/landing-oz.png"
    }
   },
   "planeMeta": {
