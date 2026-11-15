@@ -79,8 +79,8 @@
    "dep": "10:25",
    "arr": "16:00",
    "duration": "4h35",
-   "quadPlane": null,
-   "typeLogo": null
+   "quadPlane": "CX_77J_Left",
+   "typeLogo": "777"
   },
   {
    "no": "CX 581",
@@ -95,8 +95,8 @@
    "dep": "16:05",
    "arr": "20:55",
    "duration": "5h50",
-   "quadPlane": null,
-   "typeLogo": null
+   "quadPlane": "CX_77J_Left",
+   "typeLogo": "777"
   }
  ],
  "assets": {
