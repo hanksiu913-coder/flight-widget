@@ -485,51 +485,43 @@
    "assets/planes/OZ_777-200ER_Standard_Left.png": [
     [
      100000,
-     660189605
+     366507265
     ],
     [
      100000,
-     865862795
+     782064409
     ],
     [
      100000,
-     874329525
+     895542168
     ],
     [
      100000,
-     70795047
+     181218935
     ],
     [
      100000,
-     486012910
+     287442875
     ],
     [
      100000,
-     298610007
+     175378185
     ],
     [
      100000,
-     476625452
+     446562965
     ],
     [
      100000,
-     193328621
+     436168135
     ],
     [
      100000,
-     586883555
+     852162830
     ],
     [
-     100000,
-     183072406
-    ],
-    [
-     100000,
-     408579955
-    ],
-    [
-     61004,
-     239563931
+     96616,
+     386339702
     ]
    ],
    "assets/planes/OZ_A350-900_Star_Alliance_Left.png": [
@@ -625,19 +617,19 @@
    "assets/sunmoon/maltese-day-glow.png": [
     [
      100000,
-     158584206
+     337754352
     ],
     [
      100000,
-     302787761
+     535487596
     ],
     [
      100000,
-     870488546
+     809672325
     ],
     [
-     44248,
-     238330634
+     7532,
+     533350950
     ]
    ],
    "assets/sunmoon/maltese-dusk-glow.png": [
@@ -697,19 +689,19 @@
    "assets/sunmoon/retriever-day-glow.png": [
     [
      100000,
-     559142531
+     867519944
     ],
     [
      100000,
-     460622117
+     504255005
     ],
     [
      100000,
-     549017289
+     984940167
     ],
     [
-     46708,
-     295799117
+     10364,
+     343474161
     ]
    ],
    "assets/sunmoon/retriever-dusk-glow.png": [
@@ -765,7 +757,118 @@
      33660,
      735434541
     ]
+   ],
+   "assets/glyphs/d0.png": [
+    [
+     6176,
+     279524692
+    ]
+   ],
+   "assets/glyphs/d1.png": [
+    [
+     1808,
+     876656651
+    ]
+   ],
+   "assets/glyphs/d2.png": [
+    [
+     5236,
+     173915949
+    ]
+   ],
+   "assets/glyphs/d3.png": [
+    [
+     6564,
+     398521877
+    ]
+   ],
+   "assets/glyphs/d4.png": [
+    [
+     2800,
+     673555899
+    ]
+   ],
+   "assets/glyphs/d5.png": [
+    [
+     4844,
+     753522495
+    ]
+   ],
+   "assets/glyphs/d6.png": [
+    [
+     6540,
+     447761506
+    ]
+   ],
+   "assets/glyphs/d7.png": [
+    [
+     3008,
+     66087604
+    ]
+   ],
+   "assets/glyphs/d8.png": [
+    [
+     7540,
+     464153288
+    ]
+   ],
+   "assets/glyphs/d9.png": [
+    [
+     6516,
+     209742340
+    ]
+   ],
+   "assets/glyphs/day.png": [
+    [
+     1984,
+     701547624
+    ]
+   ],
+   "assets/cities/cx-hong-kong.png": [
+    [
+     9520,
+     951249013
+    ]
+   ],
+   "assets/cities/cx-osaka.png": [
+    [
+     8012,
+     734550145
+    ]
+   ],
+   "assets/cities/cx-sapporo.png": [
+    [
+     9492,
+     999097454
+    ]
+   ],
+   "assets/cities/cx-seoul.png": [
+    [
+     7100,
+     520283680
+    ]
    ]
+  },
+  "glyphs": {
+   "0": "assets/glyphs/d0.png",
+   "1": "assets/glyphs/d1.png",
+   "2": "assets/glyphs/d2.png",
+   "3": "assets/glyphs/d3.png",
+   "4": "assets/glyphs/d4.png",
+   "5": "assets/glyphs/d5.png",
+   "6": "assets/glyphs/d6.png",
+   "7": "assets/glyphs/d7.png",
+   "8": "assets/glyphs/d8.png",
+   "9": "assets/glyphs/d9.png",
+   "day": "assets/glyphs/day.png"
+  },
+  "cityPng": {
+   "CX": {
+    "SEOUL": "assets/cities/cx-seoul.png",
+    "OSAKA": "assets/cities/cx-osaka.png",
+    "HONG KONG": "assets/cities/cx-hong-kong.png",
+    "SAPPORO": "assets/cities/cx-sapporo.png"
+   }
   }
  }
 }
