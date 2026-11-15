@@ -1,0 +1,190 @@
+{
+ "flights": [
+  {
+   "no": "CX 434",
+   "airline": "CX",
+   "from": "HKG",
+   "to": "ICN",
+   "fromCity": "Hong Kong",
+   "fromFlag": "🇭🇰",
+   "toCity": "Seoul",
+   "flag": "🇰🇷",
+   "date": "2026-11-24",
+   "dep": "08:15",
+   "arr": "12:45",
+   "duration": "3h30",
+   "aircraft": "A330-300",
+   "plane": "CX_A330_80th_Ground_Left"
+  },
+  {
+   "no": "OZ 114",
+   "airline": "OZ",
+   "from": "ICN",
+   "to": "KIX",
+   "fromCity": "Seoul",
+   "fromFlag": "🇰🇷",
+   "toCity": "Osaka",
+   "flag": "🇯🇵",
+   "date": "2026-11-25",
+   "dep": "16:40",
+   "arr": "18:30",
+   "duration": "1h50"
+  },
+  {
+   "no": "OZ 111",
+   "airline": "OZ",
+   "from": "KIX",
+   "to": "ICN",
+   "fromCity": "Osaka",
+   "fromFlag": "🇯🇵",
+   "toCity": "Seoul",
+   "flag": "🇰🇷",
+   "date": "2026-12-01",
+   "dep": "10:30",
+   "arr": "12:35",
+   "duration": "2h05"
+  },
+  {
+   "no": "CX 417",
+   "airline": "CX",
+   "from": "ICN",
+   "to": "HKG",
+   "fromCity": "Seoul",
+   "fromFlag": "🇰🇷",
+   "toCity": "Hong Kong",
+   "flag": "🇭🇰",
+   "date": "2026-12-14",
+   "dep": "10:00",
+   "arr": "13:15",
+   "duration": "4h15"
+  },
+  {
+   "no": "CX 584",
+   "airline": "CX",
+   "from": "HKG",
+   "to": "CTS",
+   "fromCity": "Hong Kong",
+   "fromFlag": "🇭🇰",
+   "toCity": "Sapporo",
+   "flag": "🇯🇵",
+   "date": "2026-12-15",
+   "dep": "10:25",
+   "arr": "16:00",
+   "duration": "4h35"
+  },
+  {
+   "no": "CX 581",
+   "airline": "CX",
+   "from": "CTS",
+   "to": "HKG",
+   "fromCity": "Sapporo",
+   "fromFlag": "🇯🇵",
+   "toCity": "Hong Kong",
+   "flag": "🇭🇰",
+   "date": "2026-12-23",
+   "dep": "16:05",
+   "arr": "20:55",
+   "duration": "5h50"
+  }
+ ],
+ "assets": {
+  "backgrounds": {
+   "HKG": {
+    "sunrise": "assets/bg/hkg-sunrise.jpg",
+    "day": "assets/bg/hkg-day.jpg",
+    "dusk": "assets/bg/hkg-dusk.jpg",
+    "night": "assets/bg/hkg-night.jpg"
+   },
+   "KIX": {
+    "sunrise": "assets/bg/kix-sunrise.jpg",
+    "day": "assets/bg/kix-day.jpg",
+    "dusk": "assets/bg/kix-dusk.jpg",
+    "night": "assets/bg/kix-night.jpg"
+   },
+   "CTS": {
+    "sunrise": "assets/bg/cts-sunrise.jpg",
+    "day": "assets/bg/cts-day.jpg",
+    "dusk": "assets/bg/cts-dusk.jpg",
+    "night": "assets/bg/cts-night.jpg"
+   }
+  },
+  "planes": {
+   "CX_777-300ER_OneWorld_Left": "assets/planes/CX_777-300ER_OneWorld_Left.png",
+   "CX_777-300_Standard_Left": "assets/planes/CX_777-300_Standard_Left.png",
+   "CX_77J_Spirit_of_Hong_Kong_Left": "assets/planes/CX_77J_Spirit_of_Hong_Kong_Left.png",
+   "CX_A321neo_80_Left": "assets/planes/CX_A321neo_80_Left.png",
+   "CX_A350_Retro_80_Left": "assets/planes/CX_A350_Retro_80_Left.png",
+   "CX_A330_80th_Ground_Left": "assets/planes/CX_A330_80th_Ground_Left.png",
+   "CX_A330_80th_Ground_Right": "assets/planes/CX_A330_80th_Ground_Right.png",
+   "KA_A330_Spirit_of_Hong_Kong_Left": "assets/planes/KA_A330_Spirit_of_Hong_Kong_Left.png",
+   "KE_737-800_Standard_Left": "assets/planes/KE_737-800_Standard_Left.png",
+   "KE_787-10_Dreamliner_Left": "assets/planes/KE_787-10_Dreamliner_Left.png",
+   "KE_A321neo_Standard_Left": "assets/planes/KE_A321neo_Standard_Left.png",
+   "KE_A350_SkyTeam_Left": "assets/planes/KE_A350_SkyTeam_Left.png",
+   "OZ_777-200ER_Standard_Left": "assets/planes/OZ_777-200ER_Standard_Left.png",
+   "OZ_A350-900_Star_Alliance_Left": "assets/planes/OZ_A350-900_Star_Alliance_Left.png"
+  },
+  "crew": {
+   "CX": {
+    "maltese": "assets/crew/cx-maltese.png",
+    "retriever": "assets/crew/cx-retriever.png"
+   },
+   "KE": {
+    "maltese": "assets/crew/ke-maltese.png",
+    "retriever": "assets/crew/ke-retriever.png"
+   },
+   "OZ": {
+    "maltese": "assets/crew/oz-maltese.png",
+    "retriever": "assets/crew/oz-retriever.png"
+   },
+   "NH": {
+    "maltese": "assets/crew/nh-maltese.png",
+    "retriever": "assets/crew/nh-retriever.png"
+   },
+   "CI": {
+    "maltese": "assets/crew/ci-maltese.png",
+    "retriever": "assets/crew/ci-retriever.png"
+   },
+   "BR": {
+    "maltese": "assets/crew/br-maltese.png",
+    "retriever": "assets/crew/br-retriever.png"
+   },
+   "UO": {
+    "maltese": "assets/crew/uo-maltese.png",
+    "retriever": "assets/crew/uo-retriever.png"
+   },
+   "JL": {
+    "maltese": "assets/crew/jl-maltese.png",
+    "retriever": "assets/crew/jl-retriever.png"
+   },
+   "7C": {
+    "maltese": "assets/crew/7c-maltese.png",
+    "retriever": "assets/crew/7c-retriever.png"
+   },
+   "TG": {
+    "maltese": "assets/crew/tg-maltese.png",
+    "retriever": "assets/crew/tg-retriever.png"
+   }
+  },
+  "logos": {
+   "CX": "assets/logos/cx-logo.png",
+   "CX-white": "assets/logos/cx-logo-white.png",
+   "OZ": "assets/logos/oz-logo.png",
+   "KE": "assets/logos/ke-logo.png"
+  },
+  "typeLogos": {
+   "737": "assets/logos/737-logo.png",
+   "777": "assets/logos/777-logo.png",
+   "787": "assets/logos/787-logo.png",
+   "A330": "assets/logos/a330-logo.png",
+   "A350": "assets/logos/a350-logo.png",
+   "A321": "assets/logos/a321-logo.png",
+   "Boeing": "assets/logos/boeing-logo.png"
+  },
+  "icons": {
+   "ring": "assets/icons/ring.png",
+   "takeoff": "assets/icons/takeoff.png",
+   "landing": "assets/icons/landing.png"
+  }
+ }
+}
