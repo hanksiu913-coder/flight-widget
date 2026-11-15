@@ -14,7 +14,9 @@
    "arr": "12:45",
    "duration": "3h30",
    "aircraft": "A330-300",
-   "plane": "CX_A330_80th_Ground_Left"
+   "plane": "CX_A330_80th_Ground_Left",
+   "quadPlane": "KA_A330_Left",
+   "typeLogo": "A330"
   },
   {
    "no": "OZ 114",
@@ -28,7 +30,9 @@
    "date": "2026-11-25",
    "dep": "16:40",
    "arr": "18:30",
-   "duration": "1h50"
+   "duration": "1h50",
+   "quadPlane": "OZ_777-200ER_Standard_Left",
+   "typeLogo": "777"
   },
   {
    "no": "OZ 111",
@@ -42,7 +46,9 @@
    "date": "2026-12-01",
    "dep": "10:30",
    "arr": "12:35",
-   "duration": "2h05"
+   "duration": "2h05",
+   "quadPlane": "OZ_A350-900_Star_Alliance_Left",
+   "typeLogo": "A350"
   },
   {
    "no": "CX 417",
@@ -56,7 +62,9 @@
    "date": "2026-12-14",
    "dep": "10:00",
    "arr": "13:15",
-   "duration": "4h15"
+   "duration": "4h15",
+   "quadPlane": "CX_77J_Left",
+   "typeLogo": "777"
   },
   {
    "no": "CX 584",
@@ -70,7 +78,9 @@
    "date": "2026-12-15",
    "dep": "10:25",
    "arr": "16:00",
-   "duration": "4h35"
+   "duration": "4h35",
+   "quadPlane": null,
+   "typeLogo": null
   },
   {
    "no": "CX 581",
@@ -84,7 +94,9 @@
    "date": "2026-12-23",
    "dep": "16:05",
    "arr": "20:55",
-   "duration": "5h50"
+   "duration": "5h50",
+   "quadPlane": null,
+   "typeLogo": null
   }
  ],
  "assets": {
@@ -128,7 +140,9 @@
    "KE_A321neo_Standard_Left": "assets/planes/KE_A321neo_Standard_Left.png",
    "KE_A350_SkyTeam_Left": "assets/planes/KE_A350_SkyTeam_Left.png",
    "OZ_777-200ER_Standard_Left": "assets/planes/OZ_777-200ER_Standard_Left.png",
-   "OZ_A350-900_Star_Alliance_Left": "assets/planes/OZ_A350-900_Star_Alliance_Left.png"
+   "OZ_A350-900_Star_Alliance_Left": "assets/planes/OZ_A350-900_Star_Alliance_Left.png",
+   "KA_A330_Left": "assets/planes/KA_A330_Left.png",
+   "CX_77J_Left": "assets/planes/CX_77J_Left.png"
   },
   "crew": {
    "CX": {
@@ -176,7 +190,8 @@
    "CX": "assets/logos/cx-logo.png",
    "CX-white": "assets/logos/cx-logo-white.png",
    "OZ": "assets/logos/oz-logo.png",
-   "KE": "assets/logos/ke-logo.png"
+   "KE": "assets/logos/ke-logo.png",
+   "OZflat": "assets/logos/oz-logo-flat.png"
   },
   "typeLogos": {
    "737": "assets/logos/737-logo.png",
@@ -191,6 +206,94 @@
    "ring": "assets/icons/ring.png",
    "takeoff": "assets/icons/takeoff.png",
    "landing": "assets/icons/landing.png"
+  },
+  "skies": {
+   "sunrise": "assets/skies/dog-sky-sunrise.jpg",
+   "day": "assets/skies/dog-sky-day.jpg",
+   "dusk": "assets/skies/dog-sky-dusk.jpg",
+   "night": "assets/skies/dog-sky-night.jpg"
+  },
+  "sunmoon": {
+   "maltese": {
+    "sunrise": "assets/sunmoon/maltese-sunrise-glow.png",
+    "day": "assets/sunmoon/maltese-day-glow.png",
+    "dusk": "assets/sunmoon/maltese-dusk-glow.png",
+    "night": "assets/sunmoon/maltese-night-glow.png"
+   },
+   "retriever": {
+    "sunrise": "assets/sunmoon/retriever-sunrise-glow.png",
+    "day": "assets/sunmoon/retriever-day-glow.png",
+    "dusk": "assets/sunmoon/retriever-dusk-glow.png",
+    "night": "assets/sunmoon/retriever-night-glow.png"
+   }
+  },
+  "iconsC": {
+   "CX": {
+    "takeoff": "assets/icons/takeoff-CX.png",
+    "landing": "assets/icons/landing-CX.png"
+   },
+   "OZ": {
+    "takeoff": "assets/icons/takeoff-OZ.png",
+    "landing": "assets/icons/landing-OZ.png"
+   }
+  },
+  "planeMeta": {
+   "KA_A330_Left": {
+    "crop": [
+     0.00599,
+     0.04696,
+     0.99401,
+     0.92956
+    ],
+    "roofFrac": 0.45765,
+    "badge": [
+     1275,
+     260,
+     318
+    ]
+   },
+   "OZ_777-200ER_Standard_Left": {
+    "crop": [
+     0.0,
+     0.03453,
+     0.98527,
+     0.93785
+    ],
+    "roofFrac": 0.44772,
+    "badge": [
+     1290,
+     260,
+     330
+    ]
+   },
+   "OZ_A350-900_Star_Alliance_Left": {
+    "crop": [
+     0.00645,
+     0.0442,
+     0.99355,
+     0.92265
+    ],
+    "roofFrac": 0.48054,
+    "badge": [
+     1275,
+     300,
+     318
+    ]
+   },
+   "CX_77J_Left": {
+    "crop": [
+     0.0,
+     0.07044,
+     1.0,
+     0.90193
+    ],
+    "roofFrac": 0.45176,
+    "badge": [
+     1262,
+     260,
+     324
+    ]
+   }
   }
  }
 }
