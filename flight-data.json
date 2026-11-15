@@ -847,6 +847,86 @@
      7100,
      520283680
     ]
+   ],
+   "assets/quad/sunmoon/maltese-day-glow.png": [
+    [
+     100000,
+     640258932
+    ],
+    [
+     37024,
+     605233149
+    ]
+   ],
+   "assets/quad/sunmoon/maltese-dusk-glow.png": [
+    [
+     100000,
+     41031446
+    ],
+    [
+     29796,
+     51704948
+    ]
+   ],
+   "assets/quad/sunmoon/maltese-night-glow.png": [
+    [
+     100000,
+     717951577
+    ],
+    [
+     24084,
+     24412054
+    ]
+   ],
+   "assets/quad/sunmoon/maltese-sunrise-glow.png": [
+    [
+     100000,
+     152293731
+    ],
+    [
+     32164,
+     144414766
+    ]
+   ],
+   "assets/quad/sunmoon/retriever-day-glow.png": [
+    [
+     100000,
+     808234388
+    ],
+    [
+     36904,
+     210300000
+    ]
+   ],
+   "assets/quad/sunmoon/retriever-dusk-glow.png": [
+    [
+     100000,
+     564731691
+    ],
+    [
+     29936,
+     999145951
+    ]
+   ],
+   "assets/quad/sunmoon/retriever-night-glow.png": [
+    [
+     100000,
+     217527938
+    ],
+    [
+     24580,
+     451708385
+    ]
+   ],
+   "assets/quad/sunmoon/retriever-sunrise-glow.png": [
+    [
+     100000,
+     272648323
+    ],
+    [
+     32412,
+     505819718
+    ]
    ]
   },
   "glyphs": {
