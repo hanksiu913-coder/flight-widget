@@ -927,6 +927,34 @@
      32412,
      505819718
     ]
+   ],
+   "assets/flags/flag-hk.png": [
+    [
+     100000,
+     17921530
+    ],
+    [
+     50036,
+     650162326
+    ]
+   ],
+   "assets/flags/flag-kr.png": [
+    [
+     70376,
+     470073261
+    ]
+   ],
+   "assets/flags/flag-jp.png": [
+    [
+     70264,
+     398971182
+    ]
+   ],
+   "assets/flags/flag-tw.png": [
+    [
+     22820,
+     611902149
+    ]
    ]
   },
   "glyphs": {
@@ -949,6 +977,12 @@
     "HONG KONG": "assets/cities/cx-hong-kong.png",
     "SAPPORO": "assets/cities/cx-sapporo.png"
    }
+  },
+  "flags": {
+   "hk": "assets/flags/flag-hk.png",
+   "kr": "assets/flags/flag-kr.png",
+   "jp": "assets/flags/flag-jp.png",
+   "tw": "assets/flags/flag-tw.png"
   }
  }
 }
