@@ -955,6 +955,102 @@
      22820,
      611902149
     ]
+   ],
+   "assets/codes/code-hkg.png": [
+    [
+     3136,
+     576897329
+    ]
+   ],
+   "assets/codes/code-icn.png": [
+    [
+     2688,
+     31950805
+    ]
+   ],
+   "assets/codes/code-kix.png": [
+    [
+     2896,
+     963133217
+    ]
+   ],
+   "assets/codes/code-cts.png": [
+    [
+     3160,
+     27194890
+    ]
+   ],
+   "assets/codes/code-tpe.png": [
+    [
+     2052,
+     17839592
+    ]
+   ],
+   "assets/glyphs27/g0.png": [
+    [
+     1372,
+     825254742
+    ]
+   ],
+   "assets/glyphs27/g1.png": [
+    [
+     560,
+     266310547
+    ]
+   ],
+   "assets/glyphs27/g2.png": [
+    [
+     1284,
+     64582270
+    ]
+   ],
+   "assets/glyphs27/g3.png": [
+    [
+     1512,
+     196708606
+    ]
+   ],
+   "assets/glyphs27/g4.png": [
+    [
+     808,
+     797811439
+    ]
+   ],
+   "assets/glyphs27/g5.png": [
+    [
+     1156,
+     232897985
+    ]
+   ],
+   "assets/glyphs27/g6.png": [
+    [
+     1492,
+     115143150
+    ]
+   ],
+   "assets/glyphs27/g7.png": [
+    [
+     936,
+     252526734
+    ]
+   ],
+   "assets/glyphs27/g8.png": [
+    [
+     1692,
+     51063533
+    ]
+   ],
+   "assets/glyphs27/g9.png": [
+    [
+     1452,
+     834111043
+    ]
+   ],
+   "assets/glyphs27/gcolon.png": [
+    [
+     576,
+     626608812
+    ]
    ]
   },
   "glyphs": {
@@ -983,6 +1079,26 @@
    "kr": "assets/flags/flag-kr.png",
    "jp": "assets/flags/flag-jp.png",
    "tw": "assets/flags/flag-tw.png"
+  },
+  "codes": {
+   "HKG": "assets/codes/code-hkg.png",
+   "ICN": "assets/codes/code-icn.png",
+   "KIX": "assets/codes/code-kix.png",
+   "CTS": "assets/codes/code-cts.png",
+   "TPE": "assets/codes/code-tpe.png"
+  },
+  "glyphs27": {
+   "0": "assets/glyphs27/g0.png",
+   "1": "assets/glyphs27/g1.png",
+   "2": "assets/glyphs27/g2.png",
+   "3": "assets/glyphs27/g3.png",
+   "4": "assets/glyphs27/g4.png",
+   "5": "assets/glyphs27/g5.png",
+   "6": "assets/glyphs27/g6.png",
+   "7": "assets/glyphs27/g7.png",
+   "8": "assets/glyphs27/g8.png",
+   "9": "assets/glyphs27/g9.png",
+   "colon": "assets/glyphs27/gcolon.png"
   }
  }
 }
