@@ -50,19 +50,19 @@
    "typeLogo": "A350",
    "plane": "OZ_A350-900_Star_Alliance_Left",
    "live": {
-    "status": "En Route / On Time",
+    "status": "Landed / Taxiing",
     "gateFrom": "276",
     "gateTo": null,
     "termFrom": "2",
     "termTo": "1",
     "estDep": "16:40",
-    "estArr": "18:25",
+    "estArr": "18:33",
     "actDep": "16:46",
     "actArr": null,
     "delayDep": 6,
-    "delayArr": -5,
+    "delayArr": 3,
     "baggage": null,
-    "updated": "2026-11-25T18:00+09:00"
+    "updated": "2026-11-25T18:29+09:00"
    }
   },
   {
