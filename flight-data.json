@@ -83,6 +83,24 @@
    "plane": "OZ_A350-900_Star_Alliance_Left"
   },
   {
+   "no": "OZ 114",
+   "airline": "OZ",
+   "from": "ICN",
+   "to": "KIX",
+   "fromCity": "Seoul",
+   "fromFlag": "🇰🇷",
+   "toCity": "Osaka",
+   "flag": "🇯🇵",
+   "date": "2026-12-04",
+   "dep": "16:40",
+   "arr": "18:30",
+   "duration": "1h50",
+   "quadPlane": "OZ_A350-900_Star_Alliance_Left",
+   "typeLogo": "A350",
+   "plane": "OZ_A350-900_Star_Alliance_Left",
+   "live": null
+  },
+  {
    "no": "CX 417",
    "airline": "CX",
    "from": "ICN",
