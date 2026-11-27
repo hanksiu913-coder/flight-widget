@@ -66,23 +66,6 @@
    }
   },
   {
-   "no": "OZ 111",
-   "airline": "OZ",
-   "from": "KIX",
-   "to": "ICN",
-   "fromCity": "Osaka",
-   "fromFlag": "🇯🇵",
-   "toCity": "Seoul",
-   "flag": "🇰🇷",
-   "date": "2026-12-01",
-   "dep": "10:30",
-   "arr": "12:35",
-   "duration": "2h05",
-   "quadPlane": "OZ_A350-900_Star_Alliance_Left",
-   "typeLogo": "A350",
-   "plane": "OZ_A350-900_Star_Alliance_Left"
-  },
-  {
    "no": "OZ 114",
    "airline": "OZ",
    "from": "ICN",
@@ -99,6 +82,23 @@
    "typeLogo": "A350",
    "plane": "OZ_A350-900_Star_Alliance_Left",
    "live": null
+  },
+  {
+   "no": "OZ 111",
+   "airline": "OZ",
+   "from": "KIX",
+   "to": "ICN",
+   "fromCity": "Osaka",
+   "fromFlag": "🇯🇵",
+   "toCity": "Seoul",
+   "flag": "🇰🇷",
+   "date": "2026-12-13",
+   "dep": "10:30",
+   "arr": "12:35",
+   "duration": "2h05",
+   "quadPlane": "OZ_A350-900_Star_Alliance_Left",
+   "typeLogo": "A350",
+   "plane": "OZ_A350-900_Star_Alliance_Left"
   },
   {
    "no": "CX 417",
@@ -2105,8 +2105,8 @@
    ],
    "assets/tail/txt-date-oz111.png.b64": [
     [
-     8268,
-     119783435
+     10800,
+     111770575
     ]
    ],
    "assets/tail/txt-date-oz114.png.b64": [
